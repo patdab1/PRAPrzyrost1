@@ -1,0 +1,11 @@
+C:\Users\s426111\source\repos\Sprawdzarka\Sprawdzarka\obj\Debug\netcoreapp2.0\Sprawdzarka.csprojResolveAssemblyReference.cache
+C:\Users\s426111\source\repos\Sprawdzarka\Sprawdzarka\obj\Debug\netcoreapp2.0\Sprawdzarka.csproj.CoreCompileInputs.cache
+C:\Users\s426111\source\repos\Sprawdzarka\Sprawdzarka\obj\Debug\netcoreapp2.0\Sprawdzarka.AssemblyInfoInputs.cache
+C:\Users\s426111\source\repos\Sprawdzarka\Sprawdzarka\obj\Debug\netcoreapp2.0\Sprawdzarka.AssemblyInfo.cs
+C:\Users\s426111\source\repos\Sprawdzarka\Sprawdzarka\bin\Debug\netcoreapp2.0\Sprawdzarka.deps.json
+C:\Users\s426111\source\repos\Sprawdzarka\Sprawdzarka\bin\Debug\netcoreapp2.0\Sprawdzarka.runtimeconfig.json
+C:\Users\s426111\source\repos\Sprawdzarka\Sprawdzarka\bin\Debug\netcoreapp2.0\Sprawdzarka.runtimeconfig.dev.json
+C:\Users\s426111\source\repos\Sprawdzarka\Sprawdzarka\bin\Debug\netcoreapp2.0\Sprawdzarka.dll
+C:\Users\s426111\source\repos\Sprawdzarka\Sprawdzarka\bin\Debug\netcoreapp2.0\Sprawdzarka.pdb
+C:\Users\s426111\source\repos\Sprawdzarka\Sprawdzarka\obj\Debug\netcoreapp2.0\Sprawdzarka.dll
+C:\Users\s426111\source\repos\Sprawdzarka\Sprawdzarka\obj\Debug\netcoreapp2.0\Sprawdzarka.pdb
